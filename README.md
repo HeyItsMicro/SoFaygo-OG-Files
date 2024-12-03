@@ -3,4 +3,4 @@ A SoFaygo discography compilation containing both OG and full song files, sorted
 
 ## Key
 **Full Files** - The entire song is available. <br/>
-**OG Files**	- The original entire file of a song is available.
+**OG Files**	- The original, unmodified file of a song is available.
