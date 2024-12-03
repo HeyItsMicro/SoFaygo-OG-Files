@@ -8,3 +8,5 @@ My goal with this is to have a complete and accurate collection of all SoFaygo s
 **OG Files**	- The original, unmodified file of a song is available. Usually has the best sound quality.
 
 Special thanks to Josh Kori for maintaining the [SoFaygo Tracker](https://docs.google.com/spreadsheets/u/0/d/1HISW5L6rWvEW-ZtHrUQRBbjwfOYTrTuzi5fgPkwtObQ/htmlview), it made this a lot easier to create.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeyItsMicro%2FSoFaygo-OG-Files&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
