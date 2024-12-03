@@ -1,7 +1,7 @@
 # SoFaygo-OG-Files
 A SoFaygo discography compilation containing both OG and full song files, sorted by era.
 
-My goal with this is to have a complete accurate collection of all SoFaygo's songs in one place. If you think a file is in the wrong folder, or have a file you would like to send me, please feel free to [reach out](https://discordapp.com/users/309659916858294273) or submit a pull request!
+My goal with this is to have a complete and accurate collection of all SoFaygo songs in one place. If you think a file is in the wrong folder, or have a file you would like to send me, please feel free to [reach out](https://discordapp.com/users/309659916858294273) or submit a pull request!
 
 ## Key
 **Full Files** - The entire song is available. <br/>
