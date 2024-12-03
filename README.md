@@ -7,4 +7,4 @@ My goal with this is to have a complete and accurate collection of all SoFaygo s
 **Full Files** - The entire song is available. <br/>
 **OG Files**	- The original, unmodified file of a song is available. Usually has the best sound quality.
 
-Special thanks to Josh Kori for maintaining the [SoFaygo Tracker]([url](https://docs.google.com/spreadsheets/u/0/d/1HISW5L6rWvEW-ZtHrUQRBbjwfOYTrTuzi5fgPkwtObQ/htmlview)), it made this a lot easier to create.
+Special thanks to Josh Kori for maintaining the [SoFaygo Tracker](https://docs.google.com/spreadsheets/u/0/d/1HISW5L6rWvEW-ZtHrUQRBbjwfOYTrTuzi5fgPkwtObQ/htmlview), it made this a lot easier to create.
