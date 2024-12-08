@@ -8,7 +8,7 @@ My goal with this is to have a complete and accurate collection of all SoFaygo s
 **OG File**	- The original, unmodified file of a song is available. Usually has the best sound quality.
 
 ### Releases
-Releases can be found on [GitHub](https://github.com/HeyItsMicro/SoFaygo-OG-Files/releases) and [MEGA](https://mega.nz/folder/M3N3SahJ#4lAW8vT1NL41MABUobx_gw). I keep both up to date.
+Releases can be found on [GitHub](https://github.com/HeyItsMicro/SoFaygo-OG-Files/releases) and [MEGA](https://mega.nz/folder/M3N3SahJ#4lAW8vT1NL41MABUobx_gw), I will keep both up to date.
 
 ### Special Thanks
 Thanks to Josh Kori for maintaining the [SoFaygo Tracker](https://docs.google.com/spreadsheets/u/0/d/1HISW5L6rWvEW-ZtHrUQRBbjwfOYTrTuzi5fgPkwtObQ/htmlview), it made this a lot easier to create. <br/>
