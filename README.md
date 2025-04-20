@@ -4,7 +4,7 @@ A SoFaygo discography compilation containing both original ("OG") and full song 
 The goal of this project is to have a complete and accurate collection of all SoFaygo song files in one place. If you think a file is in the wrong folder, or have a suggestion for any files I should add, please feel free to [reach out](https://discordapp.com/users/309659916858294273) or submit a pull request!
 
 ### Key
-**Full File** - The entire song is available. <br/>
+**Full File** - The entire song is available, though it could be edited or altered in some way. <br/>
 **OG File**	- The original, unmodified file of a song is available. Usually has the best sound quality.
 
 ### Releases
