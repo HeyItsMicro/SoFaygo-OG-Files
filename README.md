@@ -13,5 +13,3 @@ Releases can be found on [GitHub](https://github.com/HeyItsMicro/SoFaygo-OG-File
 ### Special Thanks
 Thanks to Josh Kori for maintaining the [SoFaygo Tracker](https://docs.google.com/spreadsheets/u/0/d/1HISW5L6rWvEW-ZtHrUQRBbjwfOYTrTuzi5fgPkwtObQ/htmlview), it made this a lot easier to create. <br/>
 Thanks to [cater](https://discordapp.com/users/104367307152695296) and [falsezx](https://discordapp.com/users/368613992148762635) for checking this compilation for accuracy.
-
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FHeyItsMicro%2FSoFaygo-OG-Files&label=Views&icon=eye-fill&color=%23198754)
