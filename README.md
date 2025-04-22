@@ -5,7 +5,7 @@ The goal of this project is to have a complete and accurate collection of all So
 
 ### Key
 **Full File** - The entire song is available, though it could be edited or altered in some way. <br/>
-**OG File**	- The original, unmodified file of a song is available. OG files have the highest sound quality available for a song.
+**OG File**	- The original, unmodified file of a song is available. Usually have the best sound quality.
 
 ### Releases
 Releases can be found on [GitHub](https://github.com/HeyItsMicro/SoFaygo-OG-Files/releases) and [MEGA](https://mega.nz/folder/M3N3SahJ#4lAW8vT1NL41MABUobx_gw), I will keep both up to date. MEGA last updated with v1.9.0 on April 20th, 2025.
