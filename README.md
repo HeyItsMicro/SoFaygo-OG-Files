@@ -8,7 +8,7 @@ The goal of this project is to have a complete and accurate collection of all So
 **OG File**	- The original, unmodified file of a song is available. Usually have the best sound quality.
 
 ### Releases
-Releases can be found on [GitHub](https://github.com/HeyItsMicro/SoFaygo-OG-Files/releases) and [MEGA](https://mega.nz/folder/M3N3SahJ#4lAW8vT1NL41MABUobx_gw), I will keep both up to date. MEGA last updated with v1.9.0 on April 20th, 2025.
+Releases can be found on [GitHub](https://github.com/HeyItsMicro/SoFaygo-OG-Files/releases) and [MEGA](https://mega.nz/folder/M3N3SahJ#4lAW8vT1NL41MABUobx_gw), I will keep both up to date. MEGA last updated with v1.10.0 on May 3rd, 2025.
 
 ### Special Thanks
 Thanks to Josh Kori for maintaining the [SoFaygo Tracker](https://docs.google.com/spreadsheets/u/0/d/1HISW5L6rWvEW-ZtHrUQRBbjwfOYTrTuzi5fgPkwtObQ/htmlview), it made this a lot easier to create. <br/>
