@@ -5,7 +5,7 @@ The goal of this project is to provide a **complete and accurate collection** of
 
 > Note: While you can play files directly from this compilation, it is **not intended** for casual listening. Most files are **untagged** and **unaltered** from their original sources. This is simply a **raw archive** you can use to create your own tagged and organized compilation.
 
-If you’re looking for a more polished and playback-friendly experience with **tagged and edited files**, check out [SoFaygo Seessions](https://github/com/HeyItsMicro/SoFaygo-Sessions).
+If you’re looking for a more polished and playback-friendly experience with **tagged and edited files**, check out [SoFaygo Seessions](https://github.com/HeyItsMicro/SoFaygo-Sessions).
 
 ### Key
 **Full File** - The entire song is available, though it could be edited or altered in some way. <br/>
