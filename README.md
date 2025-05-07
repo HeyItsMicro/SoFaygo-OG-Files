@@ -8,7 +8,7 @@ The goal of this project is to provide a **complete and accurate collection** of
 If you’re looking for a more polished and playback-friendly experience with **tagged and edited files**, check out [SoFaygo Seessions](https://github.com/HeyItsMicro/SoFaygo-Sessions).
 
 ### Key
-**Original File* - The original, unmodified file of a song is available. Usually has the best sound quality.
+**Original File** - The original, unmodified file of a song is available. Usually has the best sound quality.
 **Modified File** - The entire song is available, though it could be edited or altered in some way. <br/>
 
 ### Releases
