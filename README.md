@@ -8,8 +8,8 @@ The goal of this project is to provide a **complete and accurate collection** of
 If you’re looking for a more polished and playback-friendly experience with **tagged and edited files**, check out [SoFaygo Seessions](https://github.com/HeyItsMicro/SoFaygo-Sessions).
 
 ### Key
-**Original File** - The original, unmodified file of a song is available. Usually has the best sound quality. <br/>
-**Modified File** - The entire song is available, though it could be edited or altered in some way.
+**Original File** - The unmodified file of a song directly from the source. Usually has the best sound quality. <br/>
+**Modified File** - The song could be edited or altered in some way.
 
 ### Releases
 Releases can be found on [GitHub](https://github.com/HeyItsMicro/SoFaygo-OG-Files/releases) and [MEGA](https://mega.nz/folder/M3N3SahJ#4lAW8vT1NL41MABUobx_gw), I will keep both up to date. MEGA last updated with v1.10.0 on May 4th, 2025.
