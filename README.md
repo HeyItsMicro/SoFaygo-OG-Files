@@ -9,7 +9,7 @@ If you’re looking for a more polished and playback-friendly experience with **
 
 ### Key
 **Original File** - The unmodified file of a song taken directly from the source. Usually has the best sound quality. <br/>
-**Modified File** - The song could be edited or altered in some way.
+**Modified File** - The song is edited or altered in some way. These files are only included when a song does not have it's original file released.
 
 ### Releases
 Releases can be found on [GitHub](https://github.com/HeyItsMicro/SoFaygo-OG-Files/releases) and [MEGA](https://mega.nz/folder/M3N3SahJ#4lAW8vT1NL41MABUobx_gw), I will keep both up to date. MEGA last updated with v1.10.0 on May 4th, 2025.
