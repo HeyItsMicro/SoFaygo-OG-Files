@@ -12,7 +12,7 @@ If you’re looking for a more polished and playback-friendly experience with **
 **Modified File** - The song is edited or altered in some way. These files are only included when a song does not have it's original file released.
 
 ### Releases
-Releases can be found on [GitHub](https://github.com/HeyItsMicro/SoFaygo-OG-Files/releases) and [MEGA](https://mega.nz/folder/M3N3SahJ#4lAW8vT1NL41MABUobx_gw), I will keep both up to date. MEGA last updated with v1.10.1 on May 8th, 2025.
+Releases can be found on [GitHub](https://github.com/HeyItsMicro/SoFaygo-OG-Files/releases) and [MEGA](https://mega.nz/folder/M3N3SahJ#4lAW8vT1NL41MABUobx_gw), I will keep both up to date. MEGA last updated with v1.10.2 on May 9th, 2025.
 
 ### Special Thanks
 Thanks to Josh Kori for maintaining the [SoFaygo Tracker](https://docs.google.com/spreadsheets/u/0/d/1HISW5L6rWvEW-ZtHrUQRBbjwfOYTrTuzi5fgPkwtObQ/htmlview), it made this a lot easier to create. <br/>
