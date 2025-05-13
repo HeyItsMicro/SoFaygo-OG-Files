@@ -12,5 +12,5 @@ If you’re looking for a more polished and playback-friendly experience with **
 **Modified File** - The song is edited or altered in some way. These files are only included when a song does not have it's original file released.
 
 ### Special Thanks
-Thanks to Josh Kori for maintaining the [SoFaygo Tracker](https://docs.google.com/spreadsheets/u/0/d/1HISW5L6rWvEW-ZtHrUQRBbjwfOYTrTuzi5fgPkwtObQ/htmlview), it made this a lot easier to create. <br/>
+Thanks to Josh Kori for maintaining the [SoFaygo Tracker](https://docs.google.com/spreadsheets/u/0/d/1HISW5L6rWvEW-ZtHrUQRBbjwfOYTrTuzi5fgPkwtObQ/htmlview), it initially made this a lot easier to create. <br/>
 Thanks to [cater](https://discordapp.com/users/104367307152695296), [falsezx](https://discordapp.com/users/368613992148762635), and [createswag](https://discordapp.com/users/855230444621922316) for checking this compilation for accuracy and frequently answering my questions.
