@@ -1,5 +1,5 @@
 # SoFaygo-OG-Files
-A SoFaygo discography compilation containing both original and modified song files, organized by era. Created and maintained by HeyItsMicro. If you find anything in this compilation that is inaccurate, or have a suggestion for any files I should add, please feel free to [reach out](https://discordapp.com/users/309659916858294273) or submit a pull request! 
+This is a SoFaygo discography compilation, containing both original and modified song files, organized by era. Created and maintained by HeyItsMicro. If you find anything in this compilation that is inaccurate, or have a suggestion for any files I should add, please feel free to [reach out](https://discordapp.com/users/309659916858294273) or submit a pull request! 
 
 The goal of this project is to provide a **complete and accurate collection** of all SoFaygo song files in one place.
 
