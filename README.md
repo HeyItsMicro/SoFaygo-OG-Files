@@ -5,7 +5,9 @@ The goal of this project is to provide a **complete and accurate collection** of
 
 > Note: While you can play files directly from this compilation, it is **not intended** for casual listening. Most files are **untagged** and **unaltered** from their original sources. This is simply a **raw archive** you can use to create your own tagged and organized compilation.
 
-If you’re looking for a more polished and playback-friendly experience with **tagged and edited files**, check out [SoFaygo Sessions](https://github.com/HeyItsMicro/SoFaygo-Sessions).
+**Download the latest release [here](https://github.com/HeyItsMicro/SoFaygo-OG-Files/releases/latest) or find them all on the [releases page](https://github.com/HeyItsMicro/SoFaygo-OG-Files/releases).**
+
+If you’re looking for a more **polished** and **playback-friendly** experience with tagged and edited files, check out [**SoFaygo Sessions**](https://github.com/HeyItsMicro/SoFaygo-Sessions).
 
 ### Special Thanks
 Thanks to Josh Kori for maintaining the [SoFaygo Tracker](https://docs.google.com/spreadsheets/u/0/d/1HISW5L6rWvEW-ZtHrUQRBbjwfOYTrTuzi5fgPkwtObQ/htmlview), it initially made this a lot easier to create. <br/>
